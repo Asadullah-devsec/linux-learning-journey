@@ -15,7 +15,7 @@ To become a DevSecOps GRC Architect with international remote capability by 2030
 linux-learning-journey/
 ├── daily-notebook/         # Day-by-day learning notes
 ├── commands-cheatsheet/    # Coming soon
-├── bandit-solutions/       # OverTheWire Bandit writeups
+├── overthewire-bandit-solutions/       # OverTheWire Bandit writeups
 ├── bash-scripts/           # Scripts I write (starts Month 2)
 └── README.md               # You are here
 ```
