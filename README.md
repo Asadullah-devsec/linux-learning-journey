@@ -51,5 +51,5 @@ linux-learning-journey/
 I'm building in public, documenting everything, and learning by doing — not just watching tutorials.
 
 ## 📬 Connect With Me
-- **GitHub:** [asadullah-sec](https://github.com/asadullah-sec)
+- **GitHub:** [asadullah-sec](https://github.com/asadullah-devsec)
 - **Location:** Pakistan 🇵🇰
