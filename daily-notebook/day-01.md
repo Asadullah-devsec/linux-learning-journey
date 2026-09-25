@@ -20,8 +20,10 @@
 - Two-factor authentication adds a second verification step beyond a password, reducing account takeover risk
 
 ## Challenges & Fixes
-- _(document any install issues, error messages, or confusion here, with how you resolved them)_
-
+- While turning on the two-factor authentication the problem i faced was the authenticator app i was not familiar 
+abut that an app is used toauthenticate so i google it and came to know that a google authenticator app is used 
+to authenticate while turning two-factor authentication on so i had downloaded the app on my mobile from google and 
+use it this was a problem i had faced otherwise all the ther process goes smoothly.
 ## Next Steps
 - Learn core terminal navigation commands (`pwd`, `ls`, `cd`, `cat`, `file`, `find`)
 - Begin OverTheWire Bandit (Levels 0–2)
