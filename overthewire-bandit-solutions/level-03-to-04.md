@@ -1,5 +1,4 @@
 # Bandit Level 3 → Level 4
-
 ## Objective
 The password for the next level is stored in a hidden file inside the `inhere` directory.
 
